@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Harmony
+Comment=Sleek music player for Spotify, SoundCloud, Google Play Music and your local files.
+Exec=harmony -- %u
+StartupWMClass=Harmony
+Icon=harmony
+Terminal=false
+Type=Application
+GenericName=Sleek music player for Spotify, SoundCloud, Google Play Music and your local files.
+Categories=AudioVideo;Music;Player;Jukebox
+X-Desktop-File-Install-Version=0.1
+Name[en_US]=Harmony
