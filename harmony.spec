@@ -17,7 +17,7 @@
 
 
 Name:           harmony
-Version:        0.3.1
+Version:        0.3.2
 Release:        0
 Summary:        Sleek music player for Spotify, SoundCloud, Google Play Music and your local files
 License:        MIT
