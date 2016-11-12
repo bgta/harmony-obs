@@ -2,11 +2,11 @@
   <service name="download_url">
     <param name="protocol">https</param>
     <param name="host">github.com</param>
-    <param name="path">/vincelwt/harmony/releases/download/v0.3.2/harmony-0.3.2.tar.xz</param>
+    <param name="path">/vincelwt/harmony/releases/download/v0.4.2/harmony-0.4.2.tar.xz</param>
   </service>
   <service name="verify_file">
-    <param name="file">_service:download_url:harmony-0.3.2.tar.xz</param>
+    <param name="file">_service:download_url:harmony-0.4.2.tar.xz</param>
     <param name="verifier">sha256</param>
-    <param name="checksum">ab01791f82255f24e561c2b0e064b9a1aedddaebaecd0b27e6f9673183ac331b</param>
+    <param name="checksum">0a81a5ac7c9ea4dce84b1a0fb3026cc229aa21611cf2f98dfa00788cdba9a1ba</param>
   </service>
 </services>
